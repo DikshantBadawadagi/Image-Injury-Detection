@@ -1,1 +1,0 @@
-# Image-Injury-Detection
